@@ -1,6 +1,8 @@
 # 3101-iXD
 Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Fall 2018
 
+| Date | Subject| |
+| ------------- |:-------------:| -----:|
 | 25 Sep | |
 | 28 Sep | |
 | 2 Oct | |
