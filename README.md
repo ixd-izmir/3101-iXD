@@ -10,7 +10,7 @@ Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Fall 20
 | 9 Oct | | |
 | 12 Oct | | |
 | 16 Oct | | |
-| 19 Oct | | |
+| 19 Oct | Future Tellers | |
 | 23 Oct | | |
 | 26 Oct | | |
 | 30 Oct | | |
