@@ -1,4 +1,4 @@
-# 3101-iXD
+# VCDS3101-iXDf18
 Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Fall 2018
 
 Lecturers: Ceren Kayalar (cerenk at gmail dot com), Daniele Savasta (daniele dot savasta at gmail dot com)
