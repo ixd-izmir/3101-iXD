@@ -56,9 +56,13 @@ Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketchi
 ## Assessment
 
 2 Projects (35%)
+
 1 Presentation (10%)
+
 10 Practice (20%)
+
 1 Final Project (35%)
+
 
 ## Schedule
 
