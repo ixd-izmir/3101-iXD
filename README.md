@@ -28,7 +28,6 @@ Processing, Adobe XD.
 5. Improve social skills while collaborating in small group
 6. Develop unique design approaches individually
 
-
 ## Resources
 
 **Main Texts**
@@ -90,6 +89,9 @@ Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketchi
 | 18 Dec | | |
 | 21 Dec | | |
 | 4 Jan | | |
+
+## Ethical Rules
+Academic integrity: Students are required to use their own ideas and skills in order to produce original works. Any image, typeface, text downloaded from the internet, if not shared under a Creative Commons License, is considered unauthorized. Therefore, any reproduction, representation, adaptation, translation and/or modification of someone else’s work, partial or total, is prohibited. Students may consult with other students for conceptual and debugging help while working on their code, but unless specified on the assignment, the final code submitted should be written, tested and documented by the student. The case of using code snippets from online sources is allowed up to being 10% of the student’s submission with proper comments in the submission referring to the original source. Any student observed to not have adhered to these rules, will be subject to disciplinary action.
 
 ## License
 The content of this project itself is licensed under the Creative Commons Attribution 3.0 Unported license, and the underlying source code used to format and display that content is licensed under the MIT license.
