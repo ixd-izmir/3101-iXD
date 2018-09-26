@@ -1,9 +1,10 @@
 # VCDS3101-IxDf18
 Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Fall 2018
 
-Lecturers: Ceren Kayalar (cerenk at gmail dot com), Daniele Savasta (daniele dot savasta at gmail dot com)
-
-...in campus: at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
+Lecturers
+Ceren Kayalar (cerenk at gmail dot com)
+Daniele Savasta (daniele dot savasta at gmail dot com)
+in campus at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
 
 ## Description
 This course introduces to the field of interaction design. Interaction design is "about shaping our everyday life through digital artifacts for work, for play, and for entertainment". From sketches to digital prototypes the students will be challenged by the aim of using "these expressive languages to develop a much richer digital environments for their fellow citizen".
@@ -55,13 +56,15 @@ Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketchi
 
 ## Assessment
 
-2 Projects (35%)
+| | | |
+|-|-|-|
+|2|Projects |35|
 
-1 Presentation (10%)
+|1| Presentation |10%|
 
-10 Practice (20%)
+|10| Practice |20%|
 
-1 Final Project (35%)
+|1| Final Project |35%|
 
 
 ## Schedule
