@@ -5,15 +5,15 @@
 [Kodlayarak nasıl sanat yapılır? Barış Özcan](https://www.youtube.com/watch?v=WzNA02gjcPE)
 
 ## Processing Review
-- Processing ecology
+- Processing ecology | A Modern Prometheus, Processing Foundation [+](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85)
 - Installation and setup
 - Basic of the IDE
 - Active and Static mode
 - Sketch structure
 
 ## Other concepts explored
-- Compiling
-- Programming Language Abstractıon Level
+- Compiling | Compilers and Interpreters, Faiçal Tchirou [+](https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf)
+- Programming Language Abstraction Level
 
 # Homework 1
 
