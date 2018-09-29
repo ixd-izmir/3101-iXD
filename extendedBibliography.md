@@ -4,7 +4,7 @@
 | Author | Year | Title | Link | Class |
 |--------|------|-------|------|-------|
 | AltexSoft Inc | 2018 | Principles of Interaction Design: What It Takes to Create Positive Human-Computer Interactions | [+](https://uxplanet.org/principles-of-interaction-design-what-it-takes-to-create-positive-human-computer-interactions-1a5af16b51c3) |  |
-| Ralph Ammer | 2016 | Interaction Design is dead. What now?  | [+](https://blog.prototypr.io/interaction-design-is-dead-what-now-db09d77cadae) |  |
+| Ralph Ammer | 2016 | Interaction Design is dead. What now? | [+](https://blog.prototypr.io/interaction-design-is-dead-what-now-db09d77cadae) |  |
 | muditha batagoda | 2017 | Interaction design and the five pillars | [+](https://uxplanet.org/interaction-design-and-the-five-pillars-ad319bd82f1) |  |
 | Sohaj Singh Brar | 2018 | 10 Steps to Interaction Design (IxD) | [+](https://uxdesign.cc/10-steps-to-interaction-design-ixd-6abe778cb8b8) |  |
 | Diógenes Brito | 2014 | The Three Laws of Interaction Design | [+](https://uxdesign.cc/the-three-laws-of-interaction-design-11912c4bf5dc) |  |
@@ -15,7 +15,7 @@
 | Ben Ralph | 2017 | Interaction design starts on paper | [+](https://medium.com/beakerandflint/interaction-design-starts-on-paper-a2baa91acc45) |  |
 | Faiçal Tchirou | 2017 | Compilers and Interpreters | [+](https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf) | W1 |
 | cameron tonkinwise | 2014 | Transition Design as Postindustrial Interaction Design? | [+](https://medium.com/@camerontw/transition-design-as-postindustrial-interaction-design-6c8668055e8d) |  |
-| Ian Bogost | 2015 | The cathedral of computation | The Atlantic | [+](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/) |  |
+| Ian Bogost | 2015 | The cathedral of computation | [+](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/) |  |
 
 ## Books
 | Author | Year | Title | Publisher | Link | Class |
