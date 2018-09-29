@@ -5,6 +5,17 @@
 |--------|------|-------|------|-------|
 | Processing Foundation | 2018 | A Modern Prometheus | [+](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85) | W1 |
 | Faiçal Tchirou | 2017 | Compilers and Interpreters | [+](https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf) | W1 |
+[+](https://uxplanet.org/principles-of-interaction-design-what-it-takes-to-create-positive-human-computer-interactions-1a5af16b51c3) |  |
+| Ralph Ammer |  |  | [+](https://blog.prototypr.io/interaction-design-is-dead-what-now-db09d77cadae) |  |
+| Sohaj Singh Brar |  |  | [+](https://uxdesign.cc/10-steps-to-interaction-design-ixd-6abe778cb8b8) |  |
+| Diógenes Brito |  |  | [+](https://uxdesign.cc/the-three-laws-of-interaction-design-11912c4bf5dc) |  |
+| Alan Cooper |  |  | [+](https://medium.theuxblog.com/ux-design-in-14-simple-steps-b8a0f2780769) |  |
+| AltexSoft Inc |  |  | [+](https://medium.com/beakerandflint/interaction-design-starts-on-paper-a2baa91acc45) |  |
+| Ben Ralph |  |  | [+](https://uxplanet.org/interaction-design-and-the-five-pillars-ad319bd82f1) |  |
+| muditha batagoda |  |  | [+](https://medium.com/@camerontw/transition-design-as-postindustrial-interaction-design-6c8668055e8d) |  |
+| cameron tonkinwise |  |  | [+](https://uxplanet.org/user-experience-design-process-d91df1a45916) |  |
+| Saadia Minhas |  |  | [+](https://ewic.bcs.org/content/ConWebDoc/36491) |  |
+| Daniel Fallman and Erik Stolterman |  |  | [+](https://medium.com/mockplus/the-best-ui-ux-design-books-resources-for-designers-b1a68efb66dd) |  |
 
 ## Books
 | Author | Year | Title | Publisher | Link | Class |
