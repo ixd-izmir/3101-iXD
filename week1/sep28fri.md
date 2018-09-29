@@ -1,4 +1,9 @@
 # Introduction - part2
+Creative Morning
+[How_art_technology_and_design_inform_creative_leaders. John_Maeda](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders?language=en)
+
+[Kodlayarak nasıl sanat yapılır? Barış Özcan](https://www.youtube.com/watch?v=WzNA02gjcPE)
+
 
 # Homework 1
 
