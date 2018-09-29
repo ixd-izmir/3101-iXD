@@ -68,8 +68,8 @@ Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketchi
 
 | Date | Subject| Assignments |
 | ------------- |:-------------:| -----:|
-| 25 Sep | | |
-| 28 Sep | | |
+| 25 Sep | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/week1/sep24tue.md) | |
+| 28 Sep | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/week1/sep28fri.md) | |
 | 2 Oct | P1 Launch | |
 | 5 Oct | | |
 | 9 Oct | | |
