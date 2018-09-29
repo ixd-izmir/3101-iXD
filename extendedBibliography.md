@@ -19,6 +19,7 @@
 ## Books
 | Author | Year | Title | Publisher | Link | Class |
 |--------|------|-------|-----------|------|-------|
+| Stephen P. Anderson | 2011 | Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences | New Riders | |
 | Sebastiano Bagnara & Gillıan Crampton Smith | 2006 | Theories and Practice in Interaction Design | Taylor & Francis | [+](https://www.tandfonline.com/doi/abs/10.1080/00140130701680213?journalCode=terg20)|  |
 | J. David Bolter & Diane Gromala | 2003 | Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency | MIT Press | [+](https://mitpress.mit.edu/books/windows-and-mirrors)|  |
 | Gui Bonsiepe | 1999 | Interface: An Approach to Design | Jan Van Eyck Akademie | | |
@@ -37,8 +38,10 @@
 | Peter Morville, Louis Rosenfeld & Jorge Arango | 2015 | Information Architecture | O'Reilly Media |  [+](http://shop.oreilly.com/product/0636920034674.do) |
 | Donald Norman | 2013 | The Design of Everyday Things | MIT Press | [+](https://www.jnd.org/books/design-of-everyday-things-revised.html)|  |
 | Casey Reas | 2010 | Form+Code | Princeton Architectural  | [+](http://formandcode.com)|  |
+| Elizabeth Sanders & Pieter Jan Stappers | 2012 | Convivial Design Toolbox | BIS | [+](https://www.bispublishers.com/convivial-design-toolbox.html)|  |
 | Helen Sharp, Jenny Preece & Yvonne Rogers | 2016 | Interaction design: beyond human-computer interaction | Wiley | [+](http://www.id-book.com)|  |
 | Miguel Sicart | 2017 | Play Matters | MIT Press | [+](https://mitpress.mit.edu/books/play-matters)|  |
+
 
 ## Processing
 | Casey Reas & Ben Fry | 2014 | Processing: A Programming Handbook for Visual Designers and Artists | MIT Press | [+](https://processing.org/handbook/)|  |
