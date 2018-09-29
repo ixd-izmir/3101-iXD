@@ -16,11 +16,17 @@
 | Alan Cooper et al.  | 2014 | About Face: The Essentials of Interaction Design | Wiley | [+](https://www.wiley.com/en-us/About+Face%3A+The+Essentials+of+Interaction+Design%2C+4th+Edition-p-9781118766576)|  |
 | Brad Frost | 2016 | Atomic Design | Brad Frost Web | [+](http://bradfrost.com/blog/post/atomic-web-design/)|  |
 | Jesse James Garrett | 2002 | Elements of User Experience: User-Centered Design for the Web and Beyond | New Riders | [+](http://www.jjg.net/elements/) |
+| John Maeda | 1999 | Design by Numbers | MIT Press | [+](https://mitpress.mit.edu/books/design-numbers)| |
+| John Maeda | 2000 | Maeda @ Media | Thames&Hudson | [+](https://thamesandhudson.com/maeda-at-media-9780500282359)| |
 | Bill Moggridge | 2007 | Designing interactions | MIT Press | [+](http://www.designinginteractions.com)| C1W1 |
 | Donald Norman | 2013 | The Design of Everyday Things | MIT Press | [+](https://www.jnd.org/books/design-of-everyday-things-revised.html)|  |
 | Casey Reas & Ben Fry | 2014 | Processing: A Programming Handbook for Visual Designers and Artists | MIT Press | [+](https://processing.org/handbook/)|  |
 | Helen Sharp, Jenny Preece & Yvonne Rogers | 2016 | Interaction design: beyond human-computer interaction | Wiley | [+](http://www.id-book.com)|  |
 
-
+## Videos
+| Author | Year | Title | Publisher | Link | Class |
+|--------|------|-------|-----------|------|-------|
+| John Maeda | 2012 | How art technology and design inform creative leaders | Ted Talks | [+](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders?language=en) | W1 |
+| Barış Özcan | 2018 | Kodlayarak nasıl sanat yapılır? | | [+](https://www.youtube.com/watch?v=WzNA02gjcPE) | W1 |
 
 ## Tools
