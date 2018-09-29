@@ -40,8 +40,6 @@
 | Helen Sharp, Jenny Preece & Yvonne Rogers | 2016 | Interaction design: beyond human-computer interaction | Wiley | [+](http://www.id-book.com)|  |
 | Miguel Sicart | 2017 | Play Matters | MIT Press | [+](https://mitpress.mit.edu/books/play-matters)|  |
 
-By 
-
 ## Videos
 | Author | Year | Title | Publisher | Link | Class |
 |--------|------|-------|-----------|------|-------|
