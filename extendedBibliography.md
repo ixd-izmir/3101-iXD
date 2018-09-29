@@ -6,6 +6,7 @@
 | AltexSoft Inc | 2018 | Principles of Interaction Design: What It Takes to Create Positive Human-Computer Interactions | [+](https://uxplanet.org/principles-of-interaction-design-what-it-takes-to-create-positive-human-computer-interactions-1a5af16b51c3) |  |
 | Ralph Ammer | 2016 | Interaction Design is dead. What now? | [+](https://blog.prototypr.io/interaction-design-is-dead-what-now-db09d77cadae) |  |
 | muditha batagoda | 2017 | Interaction design and the five pillars | [+](https://uxplanet.org/interaction-design-and-the-five-pillars-ad319bd82f1) |  |
+| Ian Bogost | 2015 | The cathedral of computation | [+](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/) |  |
 | Sohaj Singh Brar | 2018 | 10 Steps to Interaction Design (IxD) | [+](https://uxdesign.cc/10-steps-to-interaction-design-ixd-6abe778cb8b8) |  |
 | Diógenes Brito | 2014 | The Three Laws of Interaction Design | [+](https://uxdesign.cc/the-three-laws-of-interaction-design-11912c4bf5dc) |  |
 | Alan Cooper | 2016 | UX Design in 14 Simple Steps | [+](https://medium.theuxblog.com/ux-design-in-14-simple-steps-b8a0f2780769) |  |
@@ -15,7 +16,6 @@
 | Ben Ralph | 2017 | Interaction design starts on paper | [+](https://medium.com/beakerandflint/interaction-design-starts-on-paper-a2baa91acc45) |  |
 | Faiçal Tchirou | 2017 | Compilers and Interpreters | [+](https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf) | W1 |
 | cameron tonkinwise | 2014 | Transition Design as Postindustrial Interaction Design? | [+](https://medium.com/@camerontw/transition-design-as-postindustrial-interaction-design-6c8668055e8d) |  |
-| Ian Bogost | 2015 | The cathedral of computation | [+](https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/) |  |
 
 ## Books
 | Author | Year | Title | Publisher | Link | Class |
@@ -42,6 +42,8 @@
 | Bill Moggridge | 2007 | Designing interactions | MIT Press | [+](http://www.designinginteractions.com)| C1W1 |
 | Bill Moggridge | 2010 | Designing media | MIT Press | [+](http://www.designing-media.com/)|  |
 | Peter Morville, Louis Rosenfeld & Jorge Arango | 2015 | Information Architecture | O'Reilly Media |  [+](http://shop.oreilly.com/product/0636920034674.do) |
+| Theresa Neil and W. P. Scott | 2009 | Designing Web Interfaces: Principles and Patterns for Rich Interactions | O'Really | [+](http://designingwebinterfaces.com) | |
+| Chris Nodder | 2013 | Evil by Design: Interaction Design to Lead Us into Temptation | Wiley | [+](https://evilbydesign.info) | | 
 | Donald Norman | 2013 | The Design of Everyday Things | MIT Press | [+](https://www.jnd.org/books/design-of-everyday-things-revised.html)|  |
 | Steve Portigal | 2013 | Interviewing Users: How to Uncover Compelling Insights | Rosenfeld | [+](https://rosenfeldmedia.com/books/interviewing-users/) | |
 | Casey Reas | 2010 | Form+Code | Princeton Architectural  | [+](http://formandcode.com)|  |
@@ -49,10 +51,6 @@
 | Helen Sharp, Jenny Preece & Yvonne Rogers | 2016 | Interaction design: beyond human-computer interaction | Wiley | [+](http://www.id-book.com)|  |
 | Miguel Sicart | 2017 | Play Matters | MIT Press | [+](https://mitpress.mit.edu/books/play-matters)|  |
 | Jennifer Tidwell | 2011 | Designing Interfaces | O'Reilly | [+](http://designinginterfaces.com)|  |
-| Chris Nodder | 2013 | Evil by Design: Interaction Design to Lead Us into Temptation | Wiley | [+](https://evilbydesign.info) | | 
-| Theresa Neil and W. P. Scott | 2009 | Designing Web Interfaces: Principles and Patterns for Rich Interactions | O'Really | [+](http://designingwebinterfaces.com) | |  
-
-
 
 ## Processing
 | Casey Reas & Ben Fry | 2014 | Processing: A Programming Handbook for Visual Designers and Artists | MIT Press | [+](https://processing.org/handbook/)|  |
