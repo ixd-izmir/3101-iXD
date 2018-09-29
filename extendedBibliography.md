@@ -10,12 +10,14 @@
 | Author | Year | Title | Publisher | Link | Class |
 |--------|------|-------|-----------|------|-------|
 | Sebastiano Bagnara & Gillıan Crampton Smith | 2006 | Theories and Practice in Interaction Design | Taylor & Francis | [+](https://www.tandfonline.com/doi/abs/10.1080/00140130701680213?journalCode=terg20)|  |
+| J. David Bolter & Diane Gromala | 2003 | Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency | MIT Press | [+](https://mitpress.mit.edu/books/windows-and-mirrors)|  |
 | Gui Bonsiepe | 1999 | Interface: An Approach to Design | Jan Van Eyck Akademie | | |
 | Bill Buxton et al. | 2007 | Sketching User Experiences: Getting the Design Right and the Right Design | Morgan Kaufmann | [+](https://www.elsevier.com/books/sketching-user-experiences-getting-the-design-right-and-the-right-design/buxton/978-0-12-374037-3)|  |
 | Bill Buxton et al. | 2012 | Sketching User Experiences: The Workbook | Morgan Kaufmann | [+](https://sketchbook.cpsc.ucalgary.ca)|  |
 | Alan Cooper et al.  | 2014 | About Face: The Essentials of Interaction Design | Wiley | [+](https://www.wiley.com/en-us/About+Face%3A+The+Essentials+of+Interaction+Design%2C+4th+Edition-p-9781118766576)|  |
 | Brad Frost | 2016 | Atomic Design | Brad Frost Web | [+](http://bradfrost.com/blog/post/atomic-web-design/)|  |
 | Jesse James Garrett | 2002 | Elements of User Experience: User-Centered Design for the Web and Beyond | New Riders | [+](http://www.jjg.net/elements/) |
+| Jonas Lowgren | 2004 | Thoughtful interaction design | MIT Press | [+](https://mitpress.mit.edu/books/thoughtful-interaction-design) |
 | John Maeda | 1999 | Design by Numbers | MIT Press | [+](https://mitpress.mit.edu/books/design-numbers)| |
 | John Maeda | 2000 | Maeda @ Media | Thames&Hudson | [+](https://thamesandhudson.com/maeda-at-media-9780500282359)| |
 | Bill Moggridge | 2007 | Designing interactions | MIT Press | [+](http://www.designinginteractions.com)| C1W1 |
