@@ -53,6 +53,7 @@ Frost, B. (2016) Atomic Design. Brad Frost Web.
 
 Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketching User Experiences. Morgan Kaufmann.
 
+[**Extended bibliography**](https://github.com/ixd-izmir/ixd3101f18/blob/master/extendedBibliography.md)
 
 ## Assessment
 
