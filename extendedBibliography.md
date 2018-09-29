@@ -15,10 +15,12 @@
 | Bill Buxton et al. | 2012 | Sketching User Experiences: The Workbook | Morgan Kaufmann | [+](https://sketchbook.cpsc.ucalgary.ca)|  |
 | Alan Cooper et al.  | 2014 | About Face: The Essentials of Interaction Design | Wiley | [+](https://www.wiley.com/en-us/About+Face%3A+The+Essentials+of+Interaction+Design%2C+4th+Edition-p-9781118766576)|  |
 | Brad Frost | 2016 | Atomic Design | Brad Frost Web | [+](http://bradfrost.com/blog/post/atomic-web-design/)|  |
+| Jesse James Garrett | 2002 | Elements of User Experience: User-Centered Design for the Web and Beyond | New Riders | [+](http://www.jjg.net/elements/) |
 | Bill Moggridge | 2007 | Designing interactions | MIT Press | [+](http://www.designinginteractions.com)| C1W1 |
+| Donald Norman | 2013 | The Design of Everyday Things | MIT Press | [+](https://www.jnd.org/books/design-of-everyday-things-revised.html)|  |
 | Casey Reas & Ben Fry | 2014 | Processing: A Programming Handbook for Visual Designers and Artists | MIT Press | [+](https://processing.org/handbook/)|  |
 | Helen Sharp, Jenny Preece & Yvonne Rogers | 2016 | Interaction design: beyond human-computer interaction | Wiley | [+](http://www.id-book.com)|  |
-| Donald Norman | 2013 | The Design of Everyday Things | MIT Press | [+](https://www.jnd.org/books/design-of-everyday-things-revised.html)|  |
-| Jesse James Garrett | 2002 | Elements of User Experience: User-Centered Design for the Web and Beyond | New Riders | [+](http://www.jjg.net/elements/) |
+
+
 
 ## Tools
