@@ -24,6 +24,9 @@
 | Donald Norman | 2013 | The Design of Everyday Things | MIT Press | [+](https://www.jnd.org/books/design-of-everyday-things-revised.html)|  |
 | Casey Reas & Ben Fry | 2014 | Processing: A Programming Handbook for Visual Designers and Artists | MIT Press | [+](https://processing.org/handbook/)|  |
 | Helen Sharp, Jenny Preece & Yvonne Rogers | 2016 | Interaction design: beyond human-computer interaction | Wiley | [+](http://www.id-book.com)|  |
+| Miguel Sicart | 2017 | Play Matters | MIT Press | [+](https://mitpress.mit.edu/books/play-matters)|  |
+
+By 
 
 ## Videos
 | Author | Year | Title | Publisher | Link | Class |
