@@ -39,7 +39,6 @@
 | Casey Reas | 2010 | Form+Code | Princeton Architectural  | [+](http://formandcode.com)|  |
 | Helen Sharp, Jenny Preece & Yvonne Rogers | 2016 | Interaction design: beyond human-computer interaction | Wiley | [+](http://www.id-book.com)|  |
 | Miguel Sicart | 2017 | Play Matters | MIT Press | [+](https://mitpress.mit.edu/books/play-matters)|  |
-|
 
 ## Processing
 | Casey Reas & Ben Fry | 2014 | Processing: A Programming Handbook for Visual Designers and Artists | MIT Press | [+](https://processing.org/handbook/)|  |
