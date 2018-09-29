@@ -1,9 +1,19 @@
 # Introduction - part2
-Creative Morning
+## Creative Morning
 [How_art_technology_and_design_inform_creative_leaders. John_Maeda](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders?language=en)
 
 [Kodlayarak nasıl sanat yapılır? Barış Özcan](https://www.youtube.com/watch?v=WzNA02gjcPE)
 
+## Processing Review
+- Processing ecology
+- Installation and setup
+- Basic of the IDE
+- Active and Static mode
+- Sketch structure
+
+## Other concepts explored
+- Compiling
+- Programming Language Abstractıon Level
 
 # Homework 1
 
