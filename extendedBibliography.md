@@ -53,8 +53,12 @@
 | Jennifer Tidwell | 2011 | Designing Interfaces | O'Reilly | [+](http://designinginterfaces.com)|  |
 
 ## Processing
+| Author | Year | Title | Publisher | Link | Class |
+|--------|------|-------|-----------|------|-------|
 | Casey Reas & Ben Fry | 2014 | Processing: A Programming Handbook for Visual Designers and Artists | MIT Press | [+](https://processing.org/handbook/)|  |
-|  |  | The Nature of Code | | |  |
+| Daniel Shiffman | 2012 | The Nature of Code  | | [+](https://natureofcode.com) | |
+| Daniel Shiffman | 2015 | Learning Processing | Morgan Kaufmann | [+](http://learningprocessing.com) | |
+
 ## Videos
 | Author | Year | Title | Publisher | Link | Class |
 |--------|------|-------|-----------|------|-------|
