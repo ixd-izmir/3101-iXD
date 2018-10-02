@@ -14,8 +14,8 @@
 ## Concepts and references
 - Compiling | Compilers and Interpreters, Faiçal Tchirou [+](https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf)
 - Programming Language Abstraction Level
-- Design by Numbers, [bibliography](https://github.com/ixd-izmir/ixd3101f18/edit/master/extendedBibliography.md)
-- Maeda at Media, [bibliography](https://github.com/ixd-izmir/ixd3101f18/edit/master/extendedBibliography.md)
+- Design by Numbers, [bibliography](https://github.com/ixd-izmir/ixd3101f18/blob/master/extendedBibliography.md)
+- Maeda at Media, [bibliography](https://github.com/ixd-izmir/ixd3101f18/blob/master/extendedBibliography.md)
 
 # Homework 1
 
