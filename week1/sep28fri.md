@@ -85,7 +85,7 @@ Re-coded Art: Wassily Kandinsky's Composition VIII
 fill, noFill, stroke, noStroke, strokeWeight, ellipse, rect, arc, quad, line, triangle
 4. Make your design interactive (change colors, move shapes...) by using mousePressed 
 5. Upload the sketch folder in a single .zip (max. 2 MB) on Google Drive folder **h1_3-(code:Kandinsky)** 
-Naming: **ixd3101f18-h1_3-YourNameSurname.pdf**  (Use English characters for your name and surname please) If the file is larger than 2MB will be deleted from the system.
+Naming: **ixd3101f18-h1_3-YourNameSurname.zip**  (Use English characters for your name and surname please) If the file is larger than 2MB will be deleted from the system.
 
 
 
