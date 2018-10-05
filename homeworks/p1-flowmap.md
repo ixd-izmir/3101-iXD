@@ -14,6 +14,6 @@ includes an .ai template that you might want to use
 3. Using your favorite Adobe tool, create the flowmap, see the examples above
 4. Check that everything is connected and all the steps are visible and clear
 5. Deliver your work on Google Drive p1-ReDesign:IzmirInfoKiosk (create your group folder and add your 
-names to the word document) under your group folder as p1_1-gN-flowmap.pdf (replace N with your group number, 
+names to the word document) under your group folder as p1-gN-flowmap.pdf (replace N with your group number, 
 file size limit 2MB)
  
