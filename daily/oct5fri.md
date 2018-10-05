@@ -1,5 +1,6 @@
 ## Creative Mornings
-[3 ways good design makes you happy. Don Norman](https://www.ted.com/talks/don_norman_on_design_and_emotion)
+
+Three ways good design makes you happy. Don Norman [+](https://www.ted.com/talks/don_norman_on_design_and_emotion)
 
 ## Homework Review P1_1
 
