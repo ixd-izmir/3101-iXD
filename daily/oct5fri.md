@@ -3,7 +3,7 @@
 
 ## Homework Review P1_1
 
-[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+Apple's Human Interface Guidelines [+](https://developer.apple.com/design/human-interface-guidelines/)
 
 ## Conditionals (if-else)
 
