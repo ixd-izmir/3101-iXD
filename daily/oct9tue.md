@@ -2,17 +2,18 @@
 # xLab: shaping interactions> ekmel ertan
 Between Art & Design and Technology
 
-# Homework review: Flowmap redo
+[Histories of the Post-Digital](http://postdigital.amberplatform.org/?lang=en)
 
-# Norman's 6 Principles
+9 evenings [YouTube videos](https://www.youtube.com/watch?v=W-cgnK-kFoo&list=PLfJq1pkYnZHWy23YYqRZSUX1DHNKfxt--)
 
-[Medium article summing up the chapter from DOET](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)
+[aTXT](http://atxt.org)
 
-[Ian Bogost's slides on 6 Principles](http://homes.lmc.gatech.edu/~bogost/courses/spring07/lcc3710/slides/3710_interaction-design.pdf)
+[Georg Nees'Computergrafik](http://dada.compart-bremen.de/item/exhibition/164)
 
-# Critical Eye
+Nees + Processing [+](https://vimeo.com/27539156)
 
-Write a short text description (~300 words) about why you feel the UI of Izmir Info Kiosk is problematic. 
-Use Source Sans or Arial 11 pt and save it as .pdf
-Bear in mind the interaction design principles discussed in class (visibility, feedback, constraints, mapping, 
-consistency and affordances). Provide at least three points to support your argument.
+Transmaking: Public in the making, 18-20 Oct @Ist [+](http://transmaking.amberplatform.org)
+
+[Creative Europe](https://ec.europa.eu/programmes/creative-europe/node_en)
+
+
