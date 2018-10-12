@@ -1,7 +1,7 @@
 
 /* 
 
-  ixd3101f18 - Reproducing Art: Nees' Schotter
+  ixd3101f18 - Reprogramming Art: Nees' Schotter
   in-class exercise
   oct12Fri
 
