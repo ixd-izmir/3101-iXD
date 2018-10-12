@@ -2,7 +2,7 @@
 # xLab: shaping interactions> ekmel ertan
 Between Art & Design and Technology
 
-[Histories of the Post-Digital](http://postdigital.amberplatform.org/?lang=en)
+[Histories of the Post-Digital](http://postdigital.amberplatform.org/?lang=en) @AmberPlatform
 
 9 evenings [YouTube videos](https://www.youtube.com/watch?v=W-cgnK-kFoo&list=PLfJq1pkYnZHWy23YYqRZSUX1DHNKfxt--)
 
