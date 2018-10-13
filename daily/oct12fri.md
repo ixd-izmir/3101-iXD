@@ -9,7 +9,7 @@ Optional watch: Bartlett International Lecture Series: 2012-13 // Casey Reas [+]
  
 # Processing Practice
 
-Nees' Schotter 1968-70 [Original Artwork](http://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/) [+](http://www.medienkunstnetz.de/works/schotter/) [Reprogrammed Artwork](https://github.com/ixd-izmir/ixd3101f18/tree/master/src)
+Nees' Schotter 1968-70 [Original Artwork](http://collections.vam.ac.uk/item/O221321/schotter-print-nees-georg/) [+](http://www.medienkunstnetz.de/works/schotter/) [Source code of Reprogrammed Artwork in-class](https://github.com/ixd-izmir/ixd3101f18/tree/master/src)
 
 # Homework review: Flowmap redo
 
