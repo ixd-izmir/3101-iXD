@@ -16,3 +16,7 @@ Review of p1-1|Flowmap and p1-2|Critical Eye
 -Tips for touch friendly kiosk UI design [+](https://blog.kiosksimple.com/2014/09/11/7-tips-for-touch-friendly-kiosk-user-interface-design/)
 
 -Digital Kiosks at London Underground [+](http://www.jaehyundesign.com/esub/)
+
+
+
+
