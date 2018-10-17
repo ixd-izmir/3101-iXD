@@ -27,7 +27,7 @@
 | Leah Buley | 2013 | The User Experience Team of One | Rosenfeld | [+](https://rosenfeldmedia.com/books/the-user-experience-team-of-one/) | |
 | Bill Buxton et al. | 2007 | Sketching User Experiences: Getting the Design Right and the Right Design | Morgan Kaufmann | [+](https://www.elsevier.com/books/sketching-user-experiences-getting-the-design-right-and-the-right-design/buxton/978-0-12-374037-3)|  |
 | Bill Buxton et al. | 2012 | Sketching User Experiences: The Workbook | Morgan Kaufmann | [+](https://sketchbook.cpsc.ucalgary.ca)|  |
-| Richard Caddick & Steve Cable | 2011 | Communicating the User Experience: A Practical Guide for Creating Useful UX Documentation | Wiley | [+](https://www.wiley.com/en-us/Communicating+the+User+Experience%3A+A+Practical+Guide+for+Creating+Useful+UX+Documentation-p-9781119972044) | 
+| Richard Caddick & Steve Cable | 2011 | Communicating the User Experience: A Practical Guide for Creating Useful UX Documentation | Wiley | [+](https://www.wiley.com/en-us/Communicating+the+User+Experience%3A+A+Practical+Guide+for+Creating+Useful+UX+Documentation-p-9781119972044) |
 | Alan Cooper et al.  | 2014 | About Face: The Essentials of Interaction Design | Wiley | [+](https://www.wiley.com/en-us/About+Face%3A+The+Essentials+of+Interaction+Design%2C+4th+Edition-p-9781118766576)|  |
 | Paul Dourish | 2004 | Where the Action Is | MIT Press | [+](https://mitpress.mit.edu/books/where-action)|  |
 | Paul Dourish | 2017 | The Stuff of Bits: An Essay on the Materialities of Information | MIT Press | [+](https://mitpress.mit.edu/books/stuff-bits)|  |
@@ -43,7 +43,7 @@
 | Bill Moggridge | 2010 | Designing media | MIT Press | [+](http://www.designing-media.com/)|  |
 | Peter Morville, Louis Rosenfeld & Jorge Arango | 2015 | Information Architecture | O'Reilly Media |  [+](http://shop.oreilly.com/product/0636920034674.do) |
 | Theresa Neil and W. P. Scott | 2009 | Designing Web Interfaces: Principles and Patterns for Rich Interactions | O'Really | [+](http://designingwebinterfaces.com) | |
-| Chris Nodder | 2013 | Evil by Design: Interaction Design to Lead Us into Temptation | Wiley | [+](https://evilbydesign.info) | | 
+| Chris Nodder | 2013 | Evil by Design: Interaction Design to Lead Us into Temptation | Wiley | [+](https://evilbydesign.info) | |
 | Donald Norman | 2013 | The Design of Everyday Things | MIT Press | [+](https://www.jnd.org/books/design-of-everyday-things-revised.html)|  |
 | Steve Portigal | 2013 | Interviewing Users: How to Uncover Compelling Insights | Rosenfeld | [+](https://rosenfeldmedia.com/books/interviewing-users/) | |
 | Casey Reas | 2010 | Form+Code | Princeton Architectural  | [+](http://formandcode.com)|  |
@@ -67,3 +67,16 @@
 
 ## References
 [+](https://medium.com/mockplus/the-best-ui-ux-design-books-resources-for-designers-b1a68efb66dd)
+
+## Kiosks
+[+](https://www.phosphor.co.nz/kiosk-interface-design)
+[+](http://www.uxbooth.com/articles/complete-beginners-guide-to-interaction-design/)
+[+](https://medium.com/@UXAliveTurkey/ux-visualization-examples-tips-950fcb5d2ebe)
+[+](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d)
+[+](https://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62)
+[+](https://alistapart.com/article/paperprototyping)
+[+](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/)
+[+](https://uxplanet.org/the-art-of-ux-sketching-and-paper-prototyping-5dae5a1efc7d)
+[+](https://uxchecklist.github.io)
+[+](https://medium.com/@sovesove/ux-project-checklist-why-i-made-it-and-whats-next-6df312b0b92e)
+[+](https://balsamiq.com/index.html)

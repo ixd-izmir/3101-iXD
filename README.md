@@ -69,13 +69,13 @@ Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketchi
 
 | Date | Subject| Assignments |
 | ------------- |:-------------:| -----:|
-| 25 Sep | [Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/week1/sep24tue.md) | |
-| 28 Sep | [Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/week1/sep28fri.md) | |
+| 25 Sep | [Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md) | |
+| 28 Sep | [Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md) | |
 | 2 Oct | P1 Launch | |
-| 5 Oct | | |
-| 9 Oct | | |
-| 12 Oct | | |
-| 16 Oct | | |
+| 5 Oct | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct5fri.md) | |
+| 9 Oct | |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct9tue.md)|
+| 12 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct12fri.md)| |
+| 16 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct16tue.md)| |
 | 19 Oct | [Future Tellers](http://www.digilogue.com) | |
 | 23 Oct | | |
 | 26 Oct | | |
