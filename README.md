@@ -36,6 +36,7 @@ Processing, Adobe XD.
 **Main Texts**
 
 Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The Essentials of Interaction Design. Wiley.
+
 Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: Maker Media.
 
 **Recommended Reading**
