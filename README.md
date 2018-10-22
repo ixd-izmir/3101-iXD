@@ -36,22 +36,9 @@ Processing, Adobe XD.
 **Main Texts**
 
 Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The Essentials of Interaction Design. Wiley.
-
-Moggridge, B. (2007). Designing interactions. Cambridge, Mass., Massachusetts: MIT Press.
-
-Reas, C. and Fry, B. (2014) Processing: A Programming Handbook for Visual Designers and Artists. MIT Press.
-
-Sharp, H., Rogers, Y., & Preece, J. (2016). Interaction design: beyond human-computer interaction. Chichester: Wiley.
+Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: Maker Media.
 
 **Recommended Reading**
-
-Bagnara, S. and Smith, G.C. (2006) Theories and Practice in Interaction Design. Taylor & Francis.
-
-Bonsiepe, G. (1999) Interface: An Approach to Design. Uitgeverij De Balie.
-
-Frost, B. (2016) Atomic Design. Brad Frost Web.
-
-Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketching User Experiences. Morgan Kaufmann.
 
 [**Extended bibliography**](https://github.com/ixd-izmir/ixd3101f18/blob/master/extendedBibliography.md)
 
