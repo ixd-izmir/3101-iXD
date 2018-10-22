@@ -67,35 +67,37 @@ Greenberg, S. and Carpendale, S. and Buxton, B. and Marquardt, N. (2012) Sketchi
 
 ## Schedule
 
-| Date | Subject| Assignments |
-| ------------- |:-------------:| -----:|
-| 25 Sep | [Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md) | |
-| 28 Sep | [Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md) | |
-| 2 Oct | P1 Launch | |
-| 5 Oct | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct5fri.md) | |
-| 9 Oct | |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct9tue.md)|
-| 12 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct12fri.md)| |
-| 16 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct16tue.md)| |
-| 19 Oct | [Future Tellers](http://www.digilogue.com) | |
-| 23 Oct | | |
-| 26 Oct | | |
-| 30 Oct | | |
-| 2 Nov | | |
-| 6 Nov | | |
-| 9 Nov | | |
-| 13 Nov | | |
-| 16 Nov | | |
-| 20 Nov | | |
-| 23 Nov | | |
-| 27 Nov | | |
-| 30 Nov | | |
-| 4 Dec | | |
-| 7 Dec | | |
-| 11 Dec | | |
-| 14 Dec | | |
-| 18 Dec | | |
-| 21 Dec | | |
-| 4 Jan | | |
+| Week | Date | Subject| Assignments |
+| --- | ------------- |:-------------:| -----:|
+| 1 / Tue | 25 Sep | [Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md) | |
+| 1 / Fri | 28 Sep | [Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md) | |
+| 2 / Tue | 2 Oct | P1 Launch | |
+| 2 / Fri | 5 Oct | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct5fri.md) | |
+| 3 / Tue | 9 Oct | |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct9tue.md)|
+| 3 / Fri | 12 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct12fri.md)| |
+| 4 / Tue | 16 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct16tue.md)| |
+| 4 / Fri | 19 Oct | [Future Tellers](http://www.digilogue.com) | |
+| 5 / Tue | 23 Oct | | |
+| 5 / Fri | 26 Oct | | |
+| 6 / Tue | 30 Oct | | |
+| 6 / Fri | 2 Nov | | |
+| 7 / Tue | 6 Nov | | |
+| 7 / Fri | 9 Nov | | |
+| 8 / Tue | 13 Nov | | |
+| 8 / Fri | 16 Nov | | |
+| 9 / Tue | 20 Nov | | |
+| 9 / Fri | 23 Nov | | |
+| 10 / Tue | 27 Nov | | |
+| 10 / Fri | 30 Nov | | |
+| 11 / Tue | 4 Dec | | |
+| 11 / Fri | 7 Dec | | |
+| 12 / Tue | 11 Dec | | |
+| 12 / Fri | 14 Dec | | |
+| 13 / Tue | 18 Dec | | |
+| 13 / Fri | 21 Dec | | |
+| 14 / Tue | 25 Dec | | |
+| 14 / Fri | 28 Dec | | |
+| Jury | 15 Jan | | |
 
 ## Ethical Rules
 Academic integrity: Students are required to use their own ideas and skills in order to produce original works. Any image, typeface, text downloaded from the internet, if not shared under a Creative Commons License, is considered unauthorized. Therefore, any reproduction, representation, adaptation, translation and/or modification of someone else’s work, partial or total, is prohibited. Students may consult with other students for conceptual and debugging help while working on their code, but unless specified on the assignment, the final code submitted should be written, tested and documented by the student. The case of using code snippets from online sources is allowed up to being 10% of the student’s submission with proper comments in the submission referring to the original source. Any student observed to not have adhered to these rules, will be subject to disciplinary action.
