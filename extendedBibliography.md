@@ -33,12 +33,18 @@
 | Paul Dourish | 2017 | The Stuff of Bits: An Essay on the Materialities of Information | MIT Press | [+](https://mitpress.mit.edu/books/stuff-bits)|  |
 | Brad Frost | 2016 | Atomic Design | Brad Frost Web | [+](http://bradfrost.com/blog/post/atomic-web-design/)|  |
 | Jesse James Garrett | 2002 | Elements of User Experience: User-Centered Design for the Web and Beyond | New Riders | [+](http://www.jjg.net/elements/) |
+| Greenberg, S. | 1993 | The Computer User as Toolsmith: The Use, Reuse and Organization of Computer-Based Tools. | Cambridge University Press | |
 | Rex Hartson & Pardha Pyla | 2012 | The UX Book: Process and Guidelines for Ensuring a Quality User Experience | Morgan Kaufmann | | |
+| IDEO | 2003 |	IDEO Method Cards: 51 ways to inspire design; learn, look, ask, try | London: Ideo. | |			
+| Kolko, J. | 2011 |Thoughts on Interaction Design. | Elsevier Science | | 		
 | Steve Krug | 2013 | Don't Make Me Think | New Riders | [+](http://sensible.com/dmmt.html)| |
 | Mike Kuniavsky | 2013 | Observing the User Experience | Morgan Kaufmann | [+](https://www.elsevier.com/books/observing-the-user-experience/goodman/978-0-12-384869-7) | |
 | Jonas Lowgren | 2004 | Thoughtful interaction design | MIT Press | [+](https://mitpress.mit.edu/books/thoughtful-interaction-design) |
 | John Maeda | 1999 | Design by Numbers | MIT Press | [+](https://mitpress.mit.edu/books/design-numbers)| |
 | John Maeda | 2000 | Maeda @ Media | Thames&Hudson | [+](https://thamesandhudson.com/maeda-at-media-9780500282359)| |
+| Maeda, J. and Burns, R. | 2004 | Creative Code | Thames & Hudson. | | 
+| Maeda, J. | 2006 | The Laws of Simplicity. | MIT Press. | |		
+| Mandel, T. | 1997 | The elements of user interface design. | Wiley.	| | 																
 | Bill Moggridge | 2007 | Designing interactions | MIT Press | [+](http://www.designinginteractions.com)| C1W1 |
 | Bill Moggridge | 2010 | Designing media | MIT Press | [+](http://www.designing-media.com/)|  |
 | Peter Morville, Louis Rosenfeld & Jorge Arango | 2015 | Information Architecture | O'Reilly Media |  [+](http://shop.oreilly.com/product/0636920034674.do) |
