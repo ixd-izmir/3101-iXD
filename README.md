@@ -66,10 +66,10 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 4 / Tue | 16 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct16tue.md)| |
 | 4 / Fri | 19 Oct | [Future Tellers](http://www.digilogue.com) | |
 | 5 / Tue | 23 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct23tue.md)| |
-| 5 / Fri | 26 Oct | | |
-| 6 / Tue | 30 Oct | | |
+| 5 / Fri | 26 Oct | Interview | |
+| 6 / Tue | 30 Oct | Persona, Scenario | |
 | 6 / Fri | 2 Nov | P2 Launch: Smartwatch app - Generative Time | |
-| 7 / Tue | 6 Nov | | |
+| 7 / Tue | 6 Nov | | Brief Definition, Paper Prototype, Wireframe |
 | 7 / Fri | 9 Nov | P1 End | |
 | 8 / Tue | 13 Nov | P3 Launch: Collab w/ Vestel | |
 | 8 / Fri | 16 Nov | | |
