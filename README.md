@@ -59,7 +59,7 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | --- | ------------- |:-------------:| -----:|
 | 1 / Tue | 25 Sep | [Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md) | |
 | 1 / Fri | 28 Sep | [Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md) | |
-| 2 / Tue | 2 Oct | P1 Launch | |
+| 2 / Tue | 2 Oct | P1 Launch: Re-design Izmir Metro Info Kiosk| |
 | 2 / Fri | 5 Oct | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct5fri.md) | |
 | 3 / Tue | 9 Oct | |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct9tue.md)|
 | 3 / Fri | 12 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct12fri.md)| |
@@ -68,10 +68,10 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 5 / Tue | 23 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct23tue.md)| |
 | 5 / Fri | 26 Oct | | |
 | 6 / Tue | 30 Oct | | |
-| 6 / Fri | 2 Nov | | |
+| 6 / Fri | 2 Nov | P2 Launch: Smartwatch app - Generative Time | |
 | 7 / Tue | 6 Nov | | |
-| 7 / Fri | 9 Nov | | |
-| 8 / Tue | 13 Nov | | |
+| 7 / Fri | 9 Nov | P1 End | |
+| 8 / Tue | 13 Nov | P3 Launch: Collab w/ Vestel | |
 | 8 / Fri | 16 Nov | | |
 | 9 / Tue | 20 Nov | | |
 | 9 / Fri | 23 Nov | | |
