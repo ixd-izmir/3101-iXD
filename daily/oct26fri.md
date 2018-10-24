@@ -14,4 +14,6 @@ How to conduct an interview?
 
 Tools for wireframing: Balsamiq, InVision ... 
 
+Keyword cloud for Design Brief
+
 HW: Interview
