@@ -19,10 +19,27 @@ In class + HW: Compositions
 
 # IxD
 
-How to conduct an interview?
+## Interview
 
-Tools for wireframing: Balsamiq, InVision ... 
+How to conduct an interview? (Google Ventures) [+] (https://www.youtube.com/watch?v=Qq3OiHQ-HCU)
 
-Keyword cloud for Design Brief
+**Basic methods**
+• Interview where the interaction happen
+• Avoid a fixed set of questions
+• Assume the role of an apprentice, not an expert
+• Use open-ended and closed-ended questions to direct the discussion
+• Focus on goals first and tasks second
+• Avoid making the user a designer
+• Avoid discussing technology
+• Encourage storytelling
+• Ask for a show-and-tell
+• Avoid leading questions
+
+**Leading questions**
+• Would feature X help you?
+• You like X, don’t you?
+• Do you think you’d use feature X if it were available?
+• Does X seem like a good idea to you?
+
 
 HW: Interview
