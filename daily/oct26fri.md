@@ -59,17 +59,14 @@ Further reading:
 * Semi-Structured Interviews by Dee Balkissoon [+](http://designresearchtechniques.com/casestudies/semi-structured-interviews/)
 * 12 Design Research methods to get inspired by users by Matt Cooper-Wright, Senior Design Lead @ideo [+](https://medium.com/design-research-methods/12-design-research-methods-to-get-inspired-by-users-cae4789a094b)
 
-Checklist for the Interview:
-* Prepare all the materials needed for the interview (methodological: questions, tasks; practical: camera, notepad, pen, smartphone)
-* Conduct a first interview
-* Record the process as much as possible (photos, videos) - kindly, ask permission of the interviewee
-Repeat the process with a second interviewee (and if you want again with a third) trying to adjust your approach and achieve more result without tiring the interviewee
 
 **Instructions**
 
+*Prepare all the materials needed for the interview (methodological: questions, tasks; practical: camera, notepad, pen, smartphone)*
+
 You will keep it short considering you are in a metro station and your interviewees are probably busy going somewhere.
 
-Considering that you will record short interviews, try to conduct at least 5 interviewees.
+Considering that you will record short interviews, try to conduct around 5 interviews.
 
 Try to approach people from different age groups.
 
