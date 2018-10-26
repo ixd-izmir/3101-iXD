@@ -37,12 +37,14 @@ How to conduct an interview? (Google Ventures) [+](https://www.youtube.com/watch
 * Do you think you’d use feature X if it were available?
 * Does X seem like a good idea to you?
 
-# Homework
+# Homework (Due: Oct 30, Tue 13:30)
 1. **Coding**
 
 Use three loops and the text() function to draw the following to the screen: the numbers 0 to 40, counting up by 2; the numbers 100 to 1000, counting up by 100; the numbers 90 to 5, counting down by 5. Pay attention to the layout and typography, not only the numbers.
 
 You can get help from Shiffman's video lecture [+](https://www.youtube.com/watch?v=NLzne4XaR3M) or Processing Tutorials on Text [+](https://processing.org/tutorials/typography/)
+
+Upload to h5-(code:repetition) as ixd3101f18_h5_NameSurname.zip 
 
 2. **IxD/Interview**
 
@@ -64,6 +66,7 @@ Checklist for the Interview:
 Repeat the process with a second interviewee (and if you want again with a third) trying to adjust your approach and achieve more result without tiring the interviewee
 
 **Instructions**
+
 You will keep it short considering you are in a metro station and your interviewees are probably busy going somewhere.
 
 Considering that you will record short interviews, try to conduct at least 5 interviewees.
