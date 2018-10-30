@@ -31,4 +31,4 @@ step 3. edit your **affinity diagram** and **empathy map** according to the resu
 step 4. upload to project folder on Drive as **ixd3101f18_p1-3_affinity-diagram.pdf** and **ixd3101f18_p1-3_empathy-map.pdf**
 
 ## part2
-Start creating your report of p1 using the InDesign template under Drive/[formats]
+Start creating your report of p1 using the InDesign template: Drive/[formats]
