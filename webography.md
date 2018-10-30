@@ -19,6 +19,8 @@
 
 [O'Reilly Video Training | Prototyping for UX Designers](https://www.youtube.com/playlist?list=PLtNErhYMkHnGnf72imhrjLCIBlM0fUqMs)
 
+[Research for developing a platform that assists UX designers to visualize their Qualitative analysis (Focus on interviews)](https://blog.prototypr.io/part-1-research-for-developing-a-platform-that-assists-ux-designers-to-visualize-their-518c8bfff87)
+
 
 
 
