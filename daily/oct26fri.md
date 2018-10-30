@@ -3,6 +3,8 @@ In-class review and recoding of h4-molnar
 
 Introduction to Functions
 
+Introduction to repetition: for loop
+
 All the source code from the practice in class is avail under /src
 
 **Radians and Degrees** 
