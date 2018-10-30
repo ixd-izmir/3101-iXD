@@ -19,8 +19,15 @@
 
 [O'Reilly Video Training | Prototyping for UX Designers](https://www.youtube.com/playlist?list=PLtNErhYMkHnGnf72imhrjLCIBlM0fUqMs)
 
+[12 Design Research methods to get inspired by users](https://medium.com/design-research-methods/12-design-research-methods-to-get-inspired-by-users-cae4789a094b) by Matt Cooper-Wright, Senior Design Lead @ideo
+
 [Research for developing a platform that assists UX designers to visualize their Qualitative analysis (Focus on interviews)](https://blog.prototypr.io/part-1-research-for-developing-a-platform-that-assists-ux-designers-to-visualize-their-518c8bfff87)
 
+[Wireframes, flows, personas and beautifully crafted UX deliverables for your inspiration](https://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62) Fabricio Teixeira @ uxdesign.cc
+
+[UX Visualization Examples & Tips](https://medium.com/@UXAliveTurkey/ux-visualization-examples-tips-950fcb5d2ebe) 
+
+[UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) uxdesign.cc
 
 
 
