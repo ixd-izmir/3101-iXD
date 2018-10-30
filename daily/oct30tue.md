@@ -12,6 +12,7 @@ Review of the homework - p1_2: Interview
 # Homework (Due: Nov 2, 8:30)
 
 the interview stages
+
 1 introduction “a friendly welcome”
 
 2 context “demographics”
