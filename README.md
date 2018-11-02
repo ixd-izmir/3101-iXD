@@ -68,8 +68,8 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 5 / Tue | 23 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct23tue.md)| |
 | 5 / Fri | 26 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct26fri.md)| Interview |
 | 6 / Tue | 30 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct30tue.md)| Interview (re-do), Affinity Diagram, Empathy Map |
-| 6 / Fri | 2 Nov | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md) <br/> P2 Launch: Smartwatch app - Generative Time | Persona |
-| 7 / Tue | 6 Nov | | Brief Definition, Paper Prototype, Wireframe |
+| 6 / Fri | 2 Nov | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md) <br/> P2 Launch: Smartwatch app - Generative Time |  |
+| 7 / Tue | 6 Nov | [+] | Persona, Scenario |
 | 7 / Fri | 9 Nov | P1 End | |
 | 8 / Tue | 13 Nov | P3 Launch: Collab w/ Vestel | |
 | 8 / Fri | 16 Nov | | |
