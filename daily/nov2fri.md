@@ -13,11 +13,13 @@ Please prepare a transcription of your interviews as explained in class and uplo
 
 Don't forget to update the report of your interviews and rename it as **ixd308f18_p1-2_interview-report.pdf**
 
+
 # Processing
 
 In-class practice on making decisions according to the mouse position
 
-## In-Class #1
+**In-Class #1**
+
 If the cursor is on the righthand side (rhs) of the screen, 
 fill the rhs with the color of your choice
 
@@ -26,7 +28,7 @@ fill the lhs with the color of your choice
 
 Timing: 20 mins
 
-## In-Class #2
+**In-Class #2**
 
 If the cursor is on the top half of the canvas,
 fill the top half with a color
