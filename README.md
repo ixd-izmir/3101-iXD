@@ -67,7 +67,7 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 4 | Oct 19, Fri | [Future Tellers](http://www.digilogue.com) | |
 | 5 | Oct 23, Tue |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct23tue.md)| |
 | 5 | Oct 26, Fri |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct26fri.md)| Interview |
-| 6 | Oct 30, Tue |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct30tue.md)| Interview (re-do) ˜Affinity Diagram, Empathy Map˜ |
+| 6 | Oct 30, Tue |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct30tue.md)| Interview (re-do) ˜˜Affinity Diagram, Empathy Map˜˜ |
 | 6 | Nov 2, Fri| Practice: <br>Theory: <br>[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md) | Interview Transcript |
 | 7 | Nov 6, Tue | Practice: Understanding your interviews (Thematic Analysis, Affinity Map, Empathy Map) <br>Theory: Persona, Scenario [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov6fri.md) | Persona, Scenario, Design Brief |
 | 7 | Nov 9, Fri | | |
