@@ -20,21 +20,21 @@ In-class practice on making decisions according to the mouse position
 
 **In-Class #1**
 
-If the cursor is on the righthand side (rhs) of the screen, 
+``If the cursor is on the righthand side (rhs) of the screen, 
 fill the rhs with the color of your choice
 
 If the cursor is on the lefthand side (lhs) of the screen, 
-fill the lhs with the color of your choice
+fill the lhs with the color of your choice``
 
 Timing: 20 mins
 
 **In-Class #2**
 
-If the cursor is on the top half of the canvas,
+``If the cursor is on the top half of the canvas,
 fill the top half with a color
 
 If the cursor is on the bottom half of the canvas,
-fill the bottom half with a color
+fill the bottom half with a color``
 
 Timing: 15 mins
 
