@@ -30,11 +30,11 @@ Timing: 20 mins
 
 **In-Class #2**
 
-``If the cursor is on the top half of the canvas,
+`If the cursor is on the top half of the canvas,
 fill the top half with a color
 
 If the cursor is on the bottom half of the canvas,
-fill the bottom half with a color``
+fill the bottom half with a color`
 
 Timing: 15 mins
 
