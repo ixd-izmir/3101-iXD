@@ -68,7 +68,7 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 5 | [Oct 23<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct23tue.md) | | |
 | 5 | [Oct 26<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct26fri.md) | | Interview |
 | 6 | [Oct 30<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct30tue.md) | | Interview (re-do), ~~Affinity Diagram, Empathy Map~~|
-| 6 | [Nov 2<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md)| **IxD Review** Interview (re-do)<br>**Processing Practice** Decision making according to the mouse position | Interview (re-do), Interview Transcript |
+| 6 |[Nov 2<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md)| **IxD Review** Interview (re-do)<br>**Processing Practice** Decision making according to the mouse position | Interview (re-do), Interview Transcript |
 | 7 | [Nov 6<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov6fri.md)| **IxD Practice** Understanding your interviews (Thematic Analysis, Affinity Map, Empathy Map)<br>**IxD Theory** Persona, Scenario | Persona, Scenario, Design Brief |
 | 7 | [Nov 9<br>Fri]() | | |
 | 8 | [Nov 13<br>Tue]() | P1 Jury | |
