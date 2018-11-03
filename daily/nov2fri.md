@@ -39,3 +39,6 @@ fill the bottom half with a color
 Timing: 15 mins
 
 ## Homework (Due: Nov 9, Fri 8:30)
+
+Embed one 'for' loop inside another to create a matrix of dots and/or lines of your own original design.
++ Add interaction: mouse over and/or mouse pressed on some of the dots and/or lines should change their color, size etc.
