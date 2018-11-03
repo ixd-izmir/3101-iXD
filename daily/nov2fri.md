@@ -7,7 +7,7 @@ Review of the homework: p1_2|Interview-redo
 
 According the comments you've received, some groups will need to conduct more interviews. Please update your interview video on YouTube and update the link in the main project document on Drive.
 
-We will work on the [thematic analysis](https://www.interaction-design.org/literature/article/how-to-do-a-thematic-analysis-of-user-interviews) of your interviews next Tuesday in the IxD section of our class. Please prepare a transcription of your interviews as explained in class and upload to your Drive project folder as **ixd308f18_p1-2_interview-transcript.pdf**. Don't forget to update the report of your interviews and rename it as **ixd308f18_p1-2_interview-report.pdf*
+We will work on the [thematic analysis](https://www.interaction-design.org/literature/article/how-to-do-a-thematic-analysis-of-user-interviews) of your interviews next Tuesday in the IxD section of our class. Please prepare a transcription of your interviews as explained in class and upload to your Drive project folder as **ixd308f18_p1-2_interview-transcript.pdf**. Don't forget to update the report of your interviews and rename it as **ixd308f18_p1-2_interview-report.pdf**
 
 # Processing
 
