@@ -57,12 +57,12 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 
 | Week | Date | Subject| Assignments |
 |:---:|:-------------|:-------------| -----:|
-| 1 |Sep 25, Tue|[Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md)| |
-| 1 |Sep 28, Tue|[Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md)| |
-| 2 / Tue | 2 Oct | P1 Launch: Re-design Izmir Metro Info Kiosk| |
-| 2 / Fri | 5 Oct | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct5fri.md) | |
-| 3 / Tue | 9 Oct | |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct9tue.md)|
-| 3 / Fri | 12 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct12fri.md)| |
+|1|Sep 25, Tue|[Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md)| |
+|1|Sep 28, Fri|[Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md)| |
+|2|Oct 2, Tue| P1 Launch: Re-design Izmir Metro Info Kiosk| |
+|2|Oct 5, Fri| [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct5fri.md) | |
+|3|Oct 9, Tue| |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct9tue.md)|
+|3|Oct 12, Fri|[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct12fri.md)| |
 | 4 / Tue | 16 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct16tue.md)| |
 | 4 / Fri | 19 Oct | [Future Tellers](http://www.digilogue.com) | |
 | 5 / Tue | 23 Oct |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct23tue.md)| |
