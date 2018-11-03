@@ -56,9 +56,9 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 ## Schedule
 
 | Week | Date | Subject| Assignments |
-|:--- |:-------------:|:-------------| -----:|
-|1|Sep 25, Tue|[Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md)| |
-|1|Se 28, Tue|[Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md)| |
+|:---:|:-------------|:-------------| -----:|
+| 1 |Sep 25, Tue|[Intro p1](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep24tue.md)| |
+| 1 |Sep 28, Tue|[Intro p2](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/sep28fri.md)| |
 | 2 / Tue | 2 Oct | P1 Launch: Re-design Izmir Metro Info Kiosk| |
 | 2 / Fri | 5 Oct | [+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct5fri.md) | |
 | 3 / Tue | 9 Oct | |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct9tue.md)|
