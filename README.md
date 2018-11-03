@@ -67,9 +67,9 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 4 | Oct 19, Fri | [Future Tellers](http://www.digilogue.com) | |
 | 5 | Oct 23, Tue |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct23tue.md)| |
 | 5 | Oct 26, Fri |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct26fri.md)| Interview |
-| 6 | Oct 30, Tue |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct30tue.md)| Interview (re-do), ˜˜Affinity˜˜ Diagram, Empathy Map˜˜ |
-| 6 | [Nov 2<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md) | **Processing Practice** Decision making according to the mouse position <br>Theory: - <br>| Interview (re-do), Interview Transcript |
-| 7 | [Nov 6<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov6fri.md) | **IxD Practice** Understanding your interviews (Thematic Analysis, Affinity Map, Empathy Map) <br>IxD Theory: Persona, Scenario | Persona, Scenario, Design Brief |
+| 6 | Oct 30, Tue |[+](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/oct30tue.md)| Interview (re-do), ~~Affinity Diagram, Empathy Map~~|
+| 6 | [Nov 2<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md) | **Processing Practice** Decision making according to the mouse position <br>**Coding Theory** - <br>| Interview (re-do), Interview Transcript |
+| 7 | [Nov 6<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov6fri.md) | **IxD Practice** Understanding your interviews (Thematic Analysis, Affinity Map, Empathy Map)<br>**IxD Theory** Persona, Scenario | Persona, Scenario, Design Brief |
 | 7 | Nov 9, Fri | | |
 | 8 | Nov 13, Tue | P1 Jury | |
 | 8 | Nov 16, Fri | P2 Launch: Smartwatch app - Generative Time | |
