@@ -42,3 +42,6 @@ Timing: 15 mins
 
 Embed one 'for' loop inside another to create a matrix of dots and/or lines of your own original design.
 + Add interaction: mouse over and/or mouse pressed on some of the dots and/or lines should change their color, size etc.
+
+Upload to h6-(code:matrix) as ixd3101f18_h6_NameSurname.zip
+
