@@ -12,6 +12,5 @@ Understanding your interviews
 
 ## Theory
 
-- Persona
-- Scenario
-- Brief
+What is a persona? [presentation from class](https://github.com/ixd-izmir/ixd3101f18/blob/master/resources/week7/persona2018.pdf)
+
