@@ -13,6 +13,7 @@ hw6: matrix
 - Conditional statements
 - Bounds of a circle
 - loading images: [Shiffman's tutorial](https://www.youtube.com/watch?v=-f0WEitGmiw), [Processing tutorial](https://processing.org/tutorials/pixels/)- read until "Pixels, pixels, and more pixels", starting from this one, there is advanced topics which we didn't introduce yet, like arrays and functions... don't get confused
+- loading svg: [Processing tutorial](https://www.processing.org/examples/loaddisplaysvg.html)
 
 [saveFrame()](https://processing.org/reference/saveFrame_.html)
 
@@ -41,4 +42,7 @@ step5: Change the position of the button randomly on the canvas and try to catch
 
 
 ## Homework (Due: Nov 16, Fri 8:30)
-Composition
+
+Create a small visual world for the viewer to explore. As a point of departure, think about [Zork](https://www.youtube.com/watch?v=xzUagi41Wo0) or [Howling Dogs](http://slimedaughter.com/games/twine/howlingdogs/), but with images in place of text. (Use your own images, either illustrations, diagrams, photographs, or collages.) The world is composed of three "rooms." The viewer can choose to navigate between these rooms with buttons that you create. The viewer can also explore and activate events in each room through rollovers and clicking on elements. Use custom functions to make your code modular. As a hint, create one function for each "room."
+
+
