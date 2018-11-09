@@ -12,7 +12,7 @@ hw6: matrix
 
 - Conditional statements
 - Bounds of a circle
-- loading images: [Shiffman's tutorial](https://www.youtube.com/watch?v=-f0WEitGmiw) [Processing tutorial](https://processing.org/tutorials/pixels/)- read until "Pixels, pixels, and more pixels", starting from this one, there is advanced topics which we didn't introduce yet, like arrays and functions... don't get confused
+- loading images: [Shiffman's tutorial](https://www.youtube.com/watch?v=-f0WEitGmiw), [Processing tutorial](https://processing.org/tutorials/pixels/)- read until "Pixels, pixels, and more pixels", starting from this one, there is advanced topics which we didn't introduce yet, like arrays and functions... don't get confused
 
 [saveFrame()](https://processing.org/reference/saveFrame_.html)
 
