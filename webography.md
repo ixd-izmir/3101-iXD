@@ -5,6 +5,8 @@
 
 [Google Design](https://design.google)
 
+[Microsoft Design](https://www.microsoft.com/design/)
+
 [10 useful UX toolkits & method guides](http://www.uxforthemasses.com/ux-toolkits-method-guides/)
 
 [UX toolkit](https://medium.com/uxblog/ux-toolkit-33da59b08366)
