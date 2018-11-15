@@ -31,5 +31,7 @@
 
 [UX Design Methods & Deliverables](https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d) uxdesign.cc
 
+[6 steps in a common UX Design Process](https://blog.prototypr.io/a-common-product-ux-design-process-55af4ab5665e)
+
 
 
