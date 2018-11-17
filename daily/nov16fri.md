@@ -20,3 +20,7 @@ hw7: explorer's world
 
 ## Homework (Due: Nov 23, Fri: 9:00)
 
+Explorer's World: Re-do using the concepts explained in-class, and this time try telling a story
+
+
+
