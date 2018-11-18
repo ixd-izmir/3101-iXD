@@ -71,8 +71,8 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 6 | [Nov 2<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov2fri.md) | **IxD Review** Interview (re-do)<br>**Processing Practice** Decision making according to the mouse position | Interview (re-do), Interview Transcript, Matrix of dots and/or lines |
 | 7 | [Nov 6<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov6tue.md) | **IxD Practice** Understanding your interviews (Thematic Analysis, Affinity Map, Empathy Map)<br>**IxD Theory** Persona, Scenario | Persona, Scenario |
 | 7 | [Nov 9<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov9fri.md) | **Processing Review** HW6:matrix <br>**Processing Practice** Bounds of a circle, tiny game, saving frames | Explorer's World |
-| 8 | [Nov 13<br>Tue]() | **IxD Review** Persona, Scenario<br>**IxD Practice** Re-do Scenario: Scenario Map | Wireframe, Design Brief, Report |
-| 8 | [Nov 16<br>Fri]() | **Processing Review** HW7:Explorer's World <br>**Processing Practice** Coding Tips: proper naming of variables, scene flow / states, keyboard interaction, working with SVG files, Introduction to Functions, switch-case | Explorer's World (re-do) |
+| 8 | [Nov 13<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov13tue.md) | **IxD Review** Persona, Scenario<br>**IxD Practice** Re-do Scenario: Scenario Map | Wireframe, Design Brief, Report |
+| 8 | [Nov 16<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov16fri.md) | **Processing Review** HW7:Explorer's World <br>**Processing Practice** Coding Tips: proper naming of variables, scene flow / states, keyboard interaction, working with SVG files, Introduction to Functions, switch-case | Explorer's World (re-do) |
 | 9 | [Nov 20<br>Tue]() | P1 Jury <br> P3 Launch: Collab w/ Vestel | |
 | 9 | [Nov 23<br>Fri]() | Arrays and loops, libraries, Sound <br> P2 Launch: Smartwatch app - Generative Time | |
 | 10 | [Nov 27<br>Tue]() | | |
