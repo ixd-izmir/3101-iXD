@@ -27,12 +27,12 @@ Prepare the design brief and upload to your Drive project folder as **ixd3101f18
 _Optional but useful to visualise your ideas before creating the brief:_ Prepare the wireframe and upload to your Drive project folder as **ixd3101f18_p1-5_wireframe.pdf** . Check the resources below on how to create wireframes and visualize only your scenario map, not the whole flow of the Kiosk UI
 
 Prepare the report of your project (the InDesign template we used last year under Drive/[formats]). Your report should contain all the project deliverables you created:
-- Analysis of the Kiosk: Critical Eye 
-- Flowmap
-- Interview transcripts and analysis (Don't forget to include the YouTube links)
-- Thematic Analysis, Affinity Map / Empathy Map
-- Persona, Scenario, Scenario Map
-- Design Brief (+ Wireframes)
+- Research: Analysis of the Kiosk- Critical Eye 
+- Explore: Flowmap
+- Research: Interview transcripts and analysis (Don't forget to include the YouTube links)
+- Explore: Thematic Analysis, Affinity Map / Empathy Map
+- Plan: Persona, Scenario, Scenario Map
+- Plan: Design Brief (+ Wireframes)
 
 Upload to your Drive project folder as **ixd3101f18_p1gN_report.pdf**
 
