@@ -6,10 +6,24 @@ Review: p1_3|Persona, Scenario
 ## Practice
 
 
-
 ## Theory
 
-## Homework
+[Core Sections of a Design Brief](https://github.com/ixd-izmir/ixd3101f18/blob/master/resources/week8/Define_the_Brief(13.11.2018).pdf)
+
+[Create Brief](http://createbrief.com)
+
+
+## Homework (Due: Nov 20, Tue 13:30)
+
+Prepare the report of your project (the InDesign template we used last year under Drive/[formats]). Your report should contain all the project deliverables you created:
+- Analysis of the Kiosk: Critical Eye 
+- Flowmap
+- Interview transcripts and analysis (Don't forget to include the YouTube links)
+- Thematic Analysis, Affinity Map / Empathy Map
+- Persona, Scenario, Scenario Map
+- Design Brief (+ Wireframes)
+
+
 [A step by step guide to scenario mapping](http://www.uxforthemasses.com/scenario-mapping/)
 
 [Wireframing for Newbies](https://www.youtube.com/watch?v=KnZrypOaVCg) @Balsamiq
