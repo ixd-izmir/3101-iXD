@@ -5,6 +5,11 @@ Review: p1_3|Persona, Scenario
 
 ## Practice
 
+Re-do: Persona, Scenario
+
+[Scenario Mapping](http://www.uxforthemasses.com/scenario-mapping/)
+
+Upload a picture of the scenario map to your Drive project folder as **ixd3101f18_p1-4_scenario-map.pdf**
 
 ## Theory
 
@@ -15,6 +20,12 @@ Review: p1_3|Persona, Scenario
 
 ## Homework (Due: Nov 20, Tue 13:30)
 
+Edit the scenario and persona according to the comments you've received in class.
+
+Prepare the design brief and upload to your Drive project folder as **ixd3101f18_p1-5_design-brief.pdf**
+
+_Optional but useful to visualise your ideas before creating the brief:_ Prepare the wireframe and upload to your Drive project folder as **ixd3101f18_p1-5_wireframe.pdf** . Check the resources below on how to create wireframes and visualize only your scenario map, not the whole flow of the Kiosk UI
+
 Prepare the report of your project (the InDesign template we used last year under Drive/[formats]). Your report should contain all the project deliverables you created:
 - Analysis of the Kiosk: Critical Eye 
 - Flowmap
@@ -23,6 +34,9 @@ Prepare the report of your project (the InDesign template we used last year unde
 - Persona, Scenario, Scenario Map
 - Design Brief (+ Wireframes)
 
+Upload to your Drive project folder as **ixd3101f18_p1gN_report.pdf**
+
+**Resources**
 
 [A step by step guide to scenario mapping](http://www.uxforthemasses.com/scenario-mapping/)
 
@@ -32,7 +46,8 @@ Prepare the report of your project (the InDesign template we used last year unde
 
 [Wireframes – The Beginner’s Guide](https://www.uxpin.com/studio/ui-design/what-is-a-wireframe-designing-your-ux-backbone/)
 
-https://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62
+[Wireframes, flows, personas and beautifully crafted UX deliverables for your inspiration](https://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62) Fabricio Teixeira @uxdesign.cc
+
 
 
 
