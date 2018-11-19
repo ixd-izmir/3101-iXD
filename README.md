@@ -79,7 +79,7 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 10 | [Nov 30<br>Fri]()| Kinect Workshop | |
 | 11 | [Dec 4<br>Tue]() | | |
 | 11 | [Dec 7<br>Fri]() | | |
-| 12 | [Dec 11<br>Tue]() | | |
+| 12 | [Dec 11<br>Tue]() | BAP064 Exhibition Opening @Muziksev | |
 | 12 | [Dec 14<br>Fri]() | | |
 | 13 | [Dec 18<br>Tue]() | | |
 | 13 | [Dec 21<br>Fri]() | | |
