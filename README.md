@@ -73,12 +73,12 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 7 | [Nov 9<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov9fri.md) | **Processing Review** HW6:matrix <br>**Processing Practice** Bounds of a circle, tiny game, saving frames | Explorer's World |
 | 8 | [Nov 13<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov13tue.md) | **IxD Review** Persona, Scenario<br>**IxD Practice** Re-do Scenario: Scenario Map | Wireframe, Design Brief, Report |
 | 8 | [Nov 16<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov16fri.md) | **Processing Review** HW7:Explorer's World <br>**Processing Practice** Coding Tips: proper naming of variables, scene flow / states, keyboard interaction, working with SVG files, Introduction to Functions, switch-case | Explorer's World (re-do) |
-| 9 | [Nov 20<br>Tue]() | P1 Jury <br> **IxD Theory** Mobile Patterns | EVC app comparative analysis <br> Flowmap/Wireframe of an EVC app |
-| 9 | [Nov 23<br>Fri]() | Arrays and loops, libraries, Sound <br> P2 Launch: Smartwatch app - Generative Time | |
-| 10 | [Nov 27<br>Tue]() | P3 Launch: Collab w/ Vestel | |
+| 9 | [Nov 20<br>Tue]() | P1 Jury | - |
+| 9 | [Nov 23<br>Fri]() | P1 Jury - cont. <br> Arrays and loops, libraries, Sound | EVC app comparative analysis <br> Flowmap/Wireframe of an EVC app |
+| 10 | [Nov 27<br>Tue]() | P3 Launch: Collab w/ Vestel <br> **IxD Theory** Mobile Patterns | |
 | 10 | [Nov 30<br>Fri]()| Kinect Workshop | |
 | 11 | [Dec 4<br>Tue]() | | |
-| 11 | [Dec 7<br>Fri]() | | |
+| 11 | [Dec 7<br>Fri]() | P2 Launch: Smartwatch app - Generative Time | |
 | 12 | [Dec 11<br>Tue]() | BAP064 Exhibition Opening @Muziksev | |
 | 12 | [Dec 14<br>Fri]() | | |
 | 13 | [Dec 18<br>Tue]() | | |
