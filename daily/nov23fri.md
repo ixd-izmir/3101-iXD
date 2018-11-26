@@ -5,7 +5,7 @@ P1 Crit - cont.
 
 ## Theory
 
-Introduction to P3 topic: Designing a speculative Electrical Vehicle Charger (EVC) app 
+Introduction to P3 topic: Designing a speculative Electrical Vehicle Charger (EVC) Booking app 
 
 Slides from the lecture: [Smart Move - new mobilities](https://github.com/ixd-izmir/ixd3101f18/blob/master/resources/week10/ixd3101vestelEV.pdf)
 
