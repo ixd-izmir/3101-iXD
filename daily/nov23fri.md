@@ -18,6 +18,7 @@ How to conduct the research (Comparative/Competitive Analysis):
 
 How to represent it (Comparative 2x2 Matrix):
 - https://dschool-old.stanford.edu/groups/k12/wiki/29e5a/2x2_matrix.html
+
 Examples:
 - https://www.snehajoshi.com/google-wallet/
 - https://cdn-images-1.medium.com/max/1600/1*J_2u3WBGzfo-Oncz9bwHiw.png
