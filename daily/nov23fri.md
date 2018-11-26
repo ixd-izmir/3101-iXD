@@ -13,10 +13,11 @@ Slides from the lecture: [Smart Move - new mobilities](https://github.com/ixd-iz
 
 Charging stations on [Google Maps](https://mashable.com/article/ev-charging-stations-google-maps/#sG9LMuct7sqh) 
 
-Examples of EVC app design on Behance
-- [Charging Call](https://www.behance.net/gallery/55384379/EV-Charging-Call-Service-Application-UI-Design)
-- [chargepoint](https://www.behance.net/gallery/13905261/EV-CHARGING-STATION-APPLICATION)
-- [Pulse](https://www.behance.net/gallery/30992897/Pulse-EV-Charging-Network-Branding)
+Examples of EVC Booking app design 
+- [Charging Call](https://www.behance.net/gallery/55384379/EV-Charging-Call-Service-Application-UI-Design) @Behance
+- [chargepoint](https://www.behance.net/gallery/13905261/EV-CHARGING-STATION-APPLICATION) @Behance
+- [Pulse](https://www.behance.net/gallery/30992897/Pulse-EV-Charging-Network-Branding) @Behance
+- UX steps well explained: [SWTCH](https://medium.com/@Rabeea.Wajeeha/swtch-electric-vehicle-charger-finding-app-ux-ui-design-project-3e78004816c5) @Medium
 
 EVC Booking apps
 - [Go To-U](https://go-tou.com)
