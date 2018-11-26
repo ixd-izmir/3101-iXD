@@ -9,6 +9,19 @@ Introduction to P3 topic: Designing a speculative Electrical Vehicle Charger (EV
 
 Slides from the lecture: [Smart Move - new mobilities](https://github.com/ixd-izmir/ixd3101f18/blob/master/resources/week10/ixd3101vestelEV.pdf)
 
+[Essential Charging Apps for EV Owners](https://ez-ev.com/tips/essential-charging-apps-for-ev-owners): PlugShare, ChargePoint, Open Charge Map, ChargeHub 
+
+Charging stations on [Google Maps](https://mashable.com/article/ev-charging-stations-google-maps/#sG9LMuct7sqh) 
+
+Examples of EVC app design on Behance
+- [Charging Call](https://www.behance.net/gallery/55384379/EV-Charging-Call-Service-Application-UI-Design)
+- [chargepoint](https://www.behance.net/gallery/13905261/EV-CHARGING-STATION-APPLICATION)
+- [Pulse](https://www.behance.net/gallery/30992897/Pulse-EV-Charging-Network-Branding)
+
+EVC Booking apps
+- [Go To-U](https://go-tou.com)
+
+
 ## Homework (Due: Nov 27, Tue: 13.30)
 
 Comparative analysis of existing EVC apps.
@@ -25,7 +38,7 @@ Examples:
 - https://cdn-images-1.medium.com/max/1600/1*56ncs-GZTg1KDHcuuRIOKg.jpeg
 - https://timcohn.files.wordpress.com/2011/03/information-discovery-matrix.png
 
-Upload to
+Upload to your Drive project folder as **ixd3101f18_p3-1_CompetitiveAnalysis.pdf**
 
 # Processing
 
@@ -36,5 +49,5 @@ Detailed scene and interaction flow of HW7: Explorer's World (re-do)
 
 Detailed scene and interaction flow of HW7: Explorer's World (re-do)
 
-Upload to 
+Upload to **h7-(code:explorersWorld)** as **ixd3101f18_h7_Flow.pdf**
 
