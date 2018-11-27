@@ -74,12 +74,12 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 8 | [Nov 13<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov13tue.md) | **IxD Review** Persona, Scenario<br>**IxD Practice** Re-do Scenario: Scenario Map | Wireframe, Design Brief, Report |
 | 8 | [Nov 16<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov16fri.md) | **Processing Review** HW7:Explorer's World <br>**Processing Practice** Coding Tips: proper naming of variables, scene flow / states, keyboard interaction, working with SVG files, Introduction to Functions, switch-case | Explorer's World (re-do) |
 | 9 | Nov 20<br>Tue | P1 Crit | - |
-| 9 | [Nov 23<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov23fri.md) | P1 Crit - cont. <br> **Processing Review** HW7:Explorer's World (re-do) | EVC app comparative analysis, Detailed scene and interaction flow of HW7: Explorer's World (re-do) |
-| 10 | [Nov 27<br>Tue]() | **IxD Theory** Mobile Patterns <br> **IxD Practice** Flowmap/Wireframe of an EVC app <br> P3 Launch: Collab w/ Vestel | |
+| 9 | [Nov 23<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov23fri.md) | P1 Crit - cont. <br> **Processing Review** HW7:Explorer's World (re-do) | EVC Booking app comparative analysis, Detailed scene and interaction flow of HW7: Explorer's World (re-do) |
+| 10 | [Nov 27<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov27tue.md) | **IxD Review** EVC Booking app comparative analysis <br> **IxD Theory** Mobile Patterns <br> **IxD Practice** Flowmap/Wireframe of an EVC app <br> P3 Launch: Collab w/ Vestel | |
 | 10 | [Nov 30<br>Fri]()| Arrays and loops, libraries, Sound <br> Kinect Workshop | |
 | 11 | [Dec 4<br>Tue]() | | |
 | 11 | [Dec 7<br>Fri]() | P2 Launch: Smartwatch app - Generative Time | |
-| 12 | [Dec 11<br>Tue]() | BAP064 Exhibition Opening @Muziksev | |
+| 12 | [Dec 11<br>Tue]() | | |
 | 12 | [Dec 14<br>Fri]() | | |
 | 13 | [Dec 18<br>Tue]() | | |
 | 13 | [Dec 21<br>Fri]() | | |
