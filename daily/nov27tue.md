@@ -1,7 +1,4 @@
 # IxD  
-IxD Theory  
-IxD Practice  
-P3 Launch: Collab w/ Vestel
 
 ## Review
 
