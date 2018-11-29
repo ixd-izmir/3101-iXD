@@ -1,0 +1,13 @@
+# IxD
+
+## Review
+
+## Theory
+
+[Gestalt Principle's UX relevance](https://www.interaction-design.org/literature/topics/gestalt-principles) @IDF
+
+[Swtch — Electric Vehicle Charger Finding App — UX/UI Design Project](https://medium.com/@Rabeea.Wajeeha/swtch-electric-vehicle-charger-finding-app-ux-ui-design-project-3e78004816c5) @Medium
+
+## Practice
+
+## Homework (Due: Dec 11, Tue 13.30)
