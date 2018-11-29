@@ -4,8 +4,6 @@
 
 Detailed scene and interaction flow of HW7: Explorer's World (re-do)
 
-+
-
 HW7: Explorer's World (re-do)
 
 ## Practice
