@@ -8,8 +8,6 @@ Drive/p3-SmartMove/EVC_BookingAppDb
 
 ## Theory
 
-[Mobile Patterns](http://www.dan.sv.it/teaching/ixd307f17/files/mobilePatterns.pdf)
-
 [Card Pattern](https://material.io/design/components/cards.html#)
 
 [What is a Blueprint?] (https://upload.wikimedia.org/wikipedia/commons/a/ac/Service_Design_Blueprint.png)
