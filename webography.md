@@ -33,5 +33,8 @@
 
 [6 steps in a common UX Design Process](https://blog.prototypr.io/a-common-product-ux-design-process-55af4ab5665e)
 
+[Fundamental Principles of Great UX Design | How to Deliver Great UX Design](https://www.uxmatters.com/mt/archives/2014/11/fundamental-principles-of-great-ux-design-how-to-deliver-great-ux-design.php) @UXmatters
+
+[Why UX Designers Need to Think like Architects](https://uxmag.com/articles/why-ux-designers-need-to-think-like-architects) @UXMagazine
 
 
