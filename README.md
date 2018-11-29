@@ -76,7 +76,7 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 9 | Nov 20<br>Tue | P1 Crit | - |
 | 9 | [Nov 23<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov23fri.md) | P1 Crit - cont. <br> **Processing Review** HW7:Explorer's World (re-do) | EVC Booking app comparative analysis, Detailed scene and interaction flow of HW7: Explorer's World (re-do) |
 | 10 | [Nov 27<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov27tue.md) | **IxD Review** EVC Booking app comparative analysis <br> **IxD Theory** Mobile Patterns <br> **IxD Practice** Flowmap/Wireframe of an EVC Booking app <br> P3 Launch: Collab w/ Vestel | |
-| 10 | [Nov 30<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov30fri.md)| **Processing Review** Detailed scene and interaction flow of HW7:Explorer's World (re-do) <br> **Processing Practice** Arrays and loops, Libraries <br> Kinect Workshop | |
+| 10 | [Nov 30<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov30fri.md)| **Processing Review** HW7:Explorer's World (re-do) <br> **Processing Practice** Arrays and loops, Libraries <br> Kinect Workshop | |
 | 11 | [Dec 4<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/dec4tue.md) | **IxD Review** <br> **IxD Theory** Mobile Patterns <br>  **IxD Practice** | |
 | 11 | [Dec 7<br>Fri]() | P2 Launch: Smartwatch app - Generative Time | |
 | 12 | [Dec 11<br>Tue]() | | |
