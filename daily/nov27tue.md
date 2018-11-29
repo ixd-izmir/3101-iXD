@@ -4,10 +4,19 @@
 
 p3-1: EVC Booking app competitive/comparative analysis 
 
+Drive/p3-SmartMove/EVC_BookingAppDb
+
 ## Theory
 
 [Mobile Patterns](http://www.dan.sv.it/teaching/ixd307f17/files/mobilePatterns.pdf)
 
+[Card Pattern](https://material.io/design/components/cards.html#)
+
+[What is a Blueprint?] (https://upload.wikimedia.org/wikipedia/commons/a/ac/Service_Design_Blueprint.png)
+
+[What’s the difference between UX and UI design?](https://medium.freecodecamp.org/whats-the-difference-between-ux-and-ui-design-2ca8d107de14) @Medium
+
+![x](http://www.writingfordesigners.com/wp-content/uploads/2016/11/Knowing-the-difference-between-the-UX-and-UI-design-1-1.jpg)
 
 ## Practice
 
