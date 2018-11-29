@@ -4,6 +4,10 @@
 
 Detailed scene and interaction flow of HW7: Explorer's World (re-do)
 
++
+
+HW7: Explorer's World (re-do)
+
 ## Practice
 
  [What is Kinect?](https://www.youtube.com/watch?v=bydLSVVuaRM)
