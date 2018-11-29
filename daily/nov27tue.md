@@ -10,7 +10,7 @@ Drive/p3-SmartMove/EVC_BookingAppDb
 
 [Card Pattern](https://material.io/design/components/cards.html#)
 
-[What is a Blueprint?] (https://upload.wikimedia.org/wikipedia/commons/a/ac/Service_Design_Blueprint.png)
+[What is a Blueprint?](https://upload.wikimedia.org/wikipedia/commons/a/ac/Service_Design_Blueprint.png)
 
 [What’s the difference between UX and UI design?](https://medium.freecodecamp.org/whats-the-difference-between-ux-and-ui-design-2ca8d107de14) @Medium
 
