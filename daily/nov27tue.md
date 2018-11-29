@@ -23,6 +23,7 @@ Flowmap/Wireframe of an EVC app/EVC Booking app
 
 ## Presentation of P3 Brief (Vestel)
 
+Drive/p3-SmartMove/VESTEL_EVCMobileApps_Benchmark_180622.pdf
 
 
 ## Homework (Due: Dec 4, Tue 13.30)
