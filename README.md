@@ -85,7 +85,7 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 13 | [Dec 21<br>Fri]() | | |
 | 14 | [Dec 25<br>Tue]() | | |
 | 14 | [Dec 28<br>Fri]() | | |
-| 17 | [Jan 15<br>Tue]() | Jury | |
+| 17 | [Jan 15<br>Tue]() | Final Crit (P2 + P3) <br> 13:30-17:20 @H101 | |
 | 17 | [Jan 19<br>Sat]() | [Processing Day @LA + Izm](https://day.processing.org) | |
 
 ## Ethical Rules
