@@ -12,7 +12,8 @@ HW7: Explorer's World (re-do)
 
 [Shiffman's Kinect playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf)
 
-** Tutorials
+**Tutorials**
+
 [Intro to Kinect + Processing](https://clab.concordia.ca/intro-to-kinect-processing/)
 
 [How Motion Detection Works in XBox Kinect](https://www.wired.com/2010/11/tonights-release-xbox-kinect-how-does-it-work/)
