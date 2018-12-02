@@ -4,8 +4,6 @@
 
 p3-1: EVC Booking app competitive/comparative analysis 
 
-Drive/p3-SmartMove/EVC_BookingAppDb
-
 ## Theory
 
 [Card Pattern](https://material.io/design/components/cards.html#)
@@ -19,12 +17,13 @@ _Image from: [http://www.writingfordesigners.com/?p=19528](http://www.writingfor
 
 ## Practice
 
-Flowmap/Wireframe of an EVC app/EVC Booking app
+Research 101: Collecting research findings in a database format. Electrical Vehicle Charger Booking App database: **Drive/p3-SmartMove/EVC_BookingAppDb**
 
 ## Presentation of P3 Brief (Vestel)
 
-Drive/p3-SmartMove/VESTEL_EVCMobileApps_Benchmark_180622.pdf
-
+Path to the comparative analysis presentation: **Drive/p3-SmartMove/VESTEL_EVCMobileApps_Benchmark_180622.pdf**
 
 ## Homework (Due: Dec 4, Tue 13.30)
 
+1. Fill up the Electrical Vehicle Charger Booking app database that we've started creating in class according to your research findings. Path to the database: **Drive/p3-SmartMove/EVC_BookingAppDb**
+2. 
