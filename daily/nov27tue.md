@@ -26,4 +26,34 @@ Path to the comparative analysis presentation: **Drive/p3-SmartMove/VESTEL_EVCMo
 ## Homework (Due: Dec 4, Tue 13.30)
 
 1. Fill up the Electrical Vehicle Charger Booking app database that we've started creating in class according to your research findings. Path to the database: **Drive/p3-SmartMove/EVC_BookingAppDb**
-2. 
+
+2. Create a comparative analysis presentation as Vestel displayed in class based on your previous research. Your presentation should include 
+ - Login Screen
+ - Login Screen: Analysis
+ - Main Screen
+ - Main Screen: Analysis
+ - Map Filters Screen
+ - Map Filters Screen: Analysis 
+ - Station Detail Screen
+ - Station Details Screen: Analysis
+ - Feature Comparison 
+ - Flowmap (_for each app_) 
+ 
+Please consider **both Android and iOS versions** of the apps. You can limit this work to 3 apps from your research that have the most # of downloads.
+
+Analyse each screen in terms of UI elements on a separate analysis page (naming - **Main Screen: Analysis**): highlight and tag all UI elements (for Android and iOS separately) according to Google and Apple's terminology. Terminology for [Android](https://material.io/design/components/#) listed all under **components** section and for [iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/interface-essentials/) listed all under **bars, views and controls** sections.
+
+Upload to your project folder as **ixd3101f18_p3-2_Benchmark.pdf**
+
+Mobile Patterns collections:
+- [pttrns](https://pttrns.com)
+- [uipatterns](http://uipatterns.io)
+- _there are many more portals providing collections of mobile patterns examples..._
+- UXPin Mobile UI Design Patterns: Drive/p3-SmartMove/uxpin_mobile_ui_design_patterns_2014.pdf
+
+Reading List:
+- [A Comprehensive Guide To Mobile App Design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/)
+- [10 Do’s and Don’ts of Mobile UX Design](https://theblog.adobe.com/10-dos-donts-mobile-ux-design/)
+- [A Comprehensive Guide to UX Research Methods](https://theblog.adobe.com/a-comprehensive-guide-to-ux-research-methods/)
+
+
