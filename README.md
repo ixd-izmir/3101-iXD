@@ -80,7 +80,7 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 11 | [Dec 4<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/dec4tue.md) | **IxD Review** p3_2:Benchmark <br> **IxD Theory** Mobile Patterns | p3_2:Benchmark (re-do the analysis) |
 | 11 | [Dec 7<br>Fri]() | P2 Launch: Smartwatch app - Generative Time | |
 | 12 | [Dec 11<br>Tue]() | | |
-| 12 | [Dec 14<br>Fri]() | | |
+| 12 | [Dec 14<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/dec14fri.md) | **Processing Practice** Representing numbers from 1..12 | |
 | 13 | [Dec 18<br>Tue]() | | |
 | 13 | [Dec 21<br>Fri]() | | |
 | 14 | [Dec 25<br>Tue]() | | |
