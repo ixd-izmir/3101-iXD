@@ -79,13 +79,13 @@ Reas, C., & Fry, B. (2015). Getting started with processing. San Francisco, CA: 
 | 10 | [Nov 30<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/nov30fri.md)| **Processing Review** HW7:Explorer's World (re-do) <br> **Processing Practice** Arrays and loops, Libraries <br> Kinect Workshop | |
 | 11 | [Dec 4<br>Tue](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/dec4tue.md) | **IxD Review** p3_2:Benchmark <br> **IxD Theory** Mobile Patterns | p3_2:Benchmark (re-do the analysis) |
 | 11 | [Dec 7<br>Fri]() | P2 Launch: Smartwatch app - Generative Time | |
-| 12 | [Dec 11<br>Tue]() | | |
-| 12 | [Dec 14<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/dec14fri.md) | **Processing Practice** Representing numbers from 1..12 | |
-| 13 | [Dec 18<br>Tue]() | | |
-| 13 | [Dec 21<br>Fri]() | | |
-| 14 | [Dec 25<br>Tue]() | | |
-| 14 | [Dec 28<br>Fri]() | | |
-| 17 | [Jan 15<br>Tue]() | Final Crit (P2 + P3) <br> 13:30-17:20 @H101 | |
+| 12 | [Dec 11<br>Tue]() | **IxD Review** p3_2:Benchmark (re-do analysis) <br> **IxD Practice** p3_3:Persona & Scenario - Prepare 4 personas with their scenarios: Real, Quirky, Deep, Unfortunate | p3_4: Storyboard (1: One image representing the scenario, One paragraph of Problem/Challenge definition; 2: Storyboard with 4 scenes |
+| 12 | [Dec 14<br>Fri](https://github.com/ixd-izmir/ixd3101f18/blob/master/daily/dec14fri.md) | **Processing Practice** Representing numbers from 1..12 | p2: How can you represent hours, minutes and seconds without using digits? |
+| 13 | [Dec 18<br>Tue]() | **IxD Review** p3_3:Persona & Scenario, p3_4: Storyboard | [Project documentation examples from Iuav](http://www.interaction-venice.net/iuav12-13lab1/projects/) <br> p3 Final Project Package: See Jan 15 entry below for the package details |
+| 13 | [Dec 21<br>Fri]() | **Processing Review**  | |
+| 14 | [Dec 25<br>Tue]() | **IxD Review** p3 Final Project Package (ver 1) | p3 Final Project Package: See Jan 15 entry below for the package details |
+| 14 | [Dec 28<br>Fri]() | **Processing Practice** | |
+| 17 | [Jan 15<br>Tue]() | Project Steps: Comparative analysis, Benchmark, Persona & Scenario, Storyboard, List of Features, Flowchart, Wireframe, Pattern Guide, Moodboard, Style Tile, Final Design, Interactive Prototype + Microinteractions <br> Project Package: Presentation, Booklet, Behance page <br> Final Crit (P2 + P3) <br> 13:30-17:20 @H101 | |
 | 17 | [Jan 19<br>Sat]() | [Processing Day @LA + Izm](https://day.processing.org) | |
 
 ## Ethical Rules
